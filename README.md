@@ -15,5 +15,11 @@ Proposed solution
 
 Results:
 
-![image](https://github.com/anwesha2812/HackScriptFour/assets/78586680/de599dff-67b5-4de2-a83a-36e94e42dd50)
+![image](https://github.com/anwesha2812/HackScriptFour/assets/78586680/5b38fd47-13be-4a4b-a5c6-cd5b4950b329)
+
+![image](https://github.com/anwesha2812/HackScriptFour/assets/78586680/69d2e05d-d951-48c3-8eeb-5ff92b3937d7)
+
+![image](https://github.com/anwesha2812/HackScriptFour/assets/78586680/873c47d6-65db-4536-ac1e-0b32d46c39b2)
+
+
 
